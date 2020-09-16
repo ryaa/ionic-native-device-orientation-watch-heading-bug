@@ -1,0 +1,7 @@
+{
+  "name": "ionic-native-device-orientation-watch-heading-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
